@@ -1,0 +1,1 @@
+Enter starting city: Enter end city: Path: ['Мариинск', 'Юрга', 'Томск'], distance: 376
